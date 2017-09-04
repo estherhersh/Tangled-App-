@@ -1,0 +1,35 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.necklace05.samoca"
+        },
+        "cordova-plugin-ble-central": {
+            "BLUETOOTH_USAGE_DESCRIPTION": "Your description here",
+            "PACKAGE_NAME": "com.necklace05.samoca"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.necklace05.samoca"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.necklace05.samoca"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.necklace05.samoca"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.necklace05.samoca"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.necklace05.samoca"
+        }
+    }
+}
